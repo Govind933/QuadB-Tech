@@ -23,7 +23,7 @@ The Movie Ticket Reservation Project is a React JS application that allows users
 ![image](https://github.com/Govind933/QuadB-Tech/assets/100987167/e89706e8-1fdb-468b-b13c-52a7328fb89a)
 
 ## Installation
-
+Make a Folder with the name - Movie-Ticket-Reservation
 1. **Clone the Repository:**
    - Open your terminal and run the following command to clone the repository:
 
